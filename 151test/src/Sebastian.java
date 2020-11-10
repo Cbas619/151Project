@@ -6,6 +6,18 @@ public class Sebastian {
 		int y = 10;
 		int sum = x+y;
 		System.out.println("What's nine + ten? " + sum);
+		
+		
+		System.out.println("Hey sebastian");
+		System.out.println("Hey sebastian");
+		
+		System.out.println("Hey sebastian");
+
+		System.out.println("Hey sebastian");
+
+		System.out.println("Hey sebastian");
+
+		
 	}
 
 }
