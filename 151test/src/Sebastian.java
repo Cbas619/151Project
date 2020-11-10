@@ -11,13 +11,15 @@ public class Sebastian {
 		System.out.println("Hey sebastian");
 		System.out.println("Hey sebastian");
 		
-		System.out.println("Hey sebastian");
-
-		System.out.println("Hey sebastian");
+		System.out.println("Hey sebastian"); 
 
 		System.out.println("Hey sebastian");
 
 		
+		System.out.println("Hey sebastian");
+
+		System.out.println("Hey sebastian");
+
 	}
 
 }
